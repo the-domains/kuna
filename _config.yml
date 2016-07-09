@@ -1,7 +1,7 @@
 layout_spectrum: 0
 color:
-  saturation: 0.2096888
-  lightness: 0.863467
+  saturation: 0.5268817
+  lightness: 1
   brandStrength: 1
   brandColors:
     - '#44BAED'
@@ -9,6 +9,6 @@ color:
     - '#0F2934'
     - '#348DB3'
     - '#296F8D'
-  rhythmicContrast: 0.2167348
-typography_spectrum: 0.1208909
+  rhythmicContrast: 0.05555556
+typography_spectrum: 0.469534
 name: Kuna
