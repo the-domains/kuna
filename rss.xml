@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Kuna]]></title>
         <description><![CDATA[Kuna]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kuna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 21:31:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jul 2016 21:36:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kuna/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing Kuna]]></title>
+            <description><![CDATA[<article><h1>Introducing Kuna</h1><p>Kuna is a smart outdoor home security system, that detects people coming to your door and lets you see and talk to them live thru your mobile device. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2214643-7be8-47e1-a38c-53ba26eccfe0.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2214643-7be8-47e1-a38c-53ba26eccfe0.jpg</link>
+            <guid isPermaLink="false">47759263-7ac6-42c4-a376-9f3b3544c225</guid>
+            <pubDate>Sat, 09 Jul 2016 21:36:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c382688-d59d-4aa2-8f59-14ce8ea35be9.jpg">]]></description>
